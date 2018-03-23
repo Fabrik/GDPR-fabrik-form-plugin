@@ -1,6 +1,6 @@
-# GDPR Fabrik form plugin
+# Consent Fabrik form plugin
 
-This plugin asks and records user's consent in order to be compliant with the GDPR directive.
+This plugin asks and records user's consent in order to be compliant with privacy directives.
 
 ## What to use it for?
 
@@ -18,7 +18,7 @@ Once the file is submitted, the consent is recorded in a table in the Joomla! ma
 
 You can also use it to record proof of consent for **subscriber of an Acymailing newsletter**.
 If you want to enable user filling your contact form to subscribe to your mailing list, managed with Acymailing, the plugin adds a second checkbox for requesting specific consent for that purpose.
-The plugin is configured to request a **double opt-in procedure** in order to be GDPR compliant.
+The plugin is configured to request a **double opt-in procedure** in order to be compliant with privacy directives.
 In this case, some additional data are recorded in the database:
 * the Acymailing subscriber ID
 * the list(s) the use has subscribed to
